@@ -1,0 +1,12 @@
+# Python
+__pycache__
+*.pyc
+venv/
+.env
+*.egg-info
+
+# Scrapy
+.scrapy/
+
+# Virtual Environment
+test/
